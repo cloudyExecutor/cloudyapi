@@ -1,0 +1,9 @@
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\bin\Debug\CloudyApis.dll
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\bin\Debug\CloudyApis.pdb
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\obj\Debug\CloudyApis.csproj.AssemblyReference.cache
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\obj\Debug\CloudyApis.csproj.CoreCompileInputs.cache
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\obj\Debug\CloudyApis.csproj.Up2Date
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\obj\Debug\CloudyApis.dll
+C:\Users\Volxp\source\repos\CloudyApis\CloudyApis\obj\Debug\CloudyApis.pdb
